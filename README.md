@@ -1,1 +1,1 @@
-# Veri_Bilimine_Giri-_Proje
+# Veri_Bilimine_Giriş-_Proje
