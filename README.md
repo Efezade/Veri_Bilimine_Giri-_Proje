@@ -39,3 +39,5 @@ Ağırlık tahmini için iki güçlü ağaç tabanlı modelin **Ensemble (Toplul
 
 ---
 *Bu proje, makine sensör verilerinin ileri veri bilimi teknikleriyle anlamlandırılarak fiziksel sensör ihtiyacını ortadan kaldıran yazılımsal donanım (software sensor) uygulamalarına modern bir örnektir.*
+
+NOT: Verilerin hakları şirkete ait olduğu için verilerin tamamı paylaşılmamıştır.
